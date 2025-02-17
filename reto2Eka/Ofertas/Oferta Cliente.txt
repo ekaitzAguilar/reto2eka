@@ -1,0 +1,6 @@
+ID Viaje: 43
+Agencia: agencia1
+Nombre Viaje: pasaratos
+Eventos: vuelo
+Precio Total: 120.0
+
