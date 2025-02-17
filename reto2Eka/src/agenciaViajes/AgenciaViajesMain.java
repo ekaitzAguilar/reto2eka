@@ -15,7 +15,7 @@ import agenciaViajes.vista.paneles.Window;
 public class AgenciaViajesMain extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-
+	//probando ramaEkaitz
 	
 	/**
 	   * Punto de entrada de la aplicación.
